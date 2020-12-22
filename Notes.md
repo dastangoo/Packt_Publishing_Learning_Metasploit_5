@@ -1,0 +1,10 @@
+```bash
+msfconsole
+---
+getuid
+pwd
+shell
+keyscan_start
+keyscan_dump
+keyscan_stop
+```
